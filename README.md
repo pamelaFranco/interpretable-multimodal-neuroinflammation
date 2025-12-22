@@ -91,14 +91,15 @@ Universidad Andrés Bello, Santiago Chile
 pamela.franco@unab.cl  
 [ORCID](https://orcid.org/0000-0001-7629-3653)
 
-**Karen Azagra, B.Sc.**  
-Division of Anesthesiology, School of Medicine  
-Pontificia Universidad Católica de Chile, Santiago Chile    
-
 **Victor Contreras, MSN, RN.**  
 Division of Anesthesiology, School of Medicine  
 Pontificia Universidad Católica de Chile, Santiago Chile 
 [ORCID](https://orcid.org/0000-0002-6081-0430)
+
+**Karen Azagra, B.Sc.**  
+Division of Anesthesiology, School of Medicine  
+Pontificia Universidad Católica de Chile, Santiago Chile    
+
 
 **Luis I. Cortinez, MD.** *(Corresponding author)*  
 Division of Anesthesiology, School of Medicine  
