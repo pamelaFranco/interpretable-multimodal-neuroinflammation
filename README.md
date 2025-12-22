@@ -29,9 +29,10 @@ The figure below illustrates the mean absolute SHAP values across classes, highl
 
 ## Repository Contents
 
-- `anestesia_ML.csv` — Multimodal database
+- `anestesia_ML.csv` — Multimodal database in CSV file
+- `anestesia_ML.xlsx` — Multimodal database in XLS file
 - `ML_strategy.py` — Python script for Interpretable Multimodal Learning of Postoperative Neuroinflammatory States
-
+- `statistical_strategy.py` — Python script for Statistical Analysis Pipeline for Multimodal Neuroinflammatory Data
 ---
 
 ## Requirements
