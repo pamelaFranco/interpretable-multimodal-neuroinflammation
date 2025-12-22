@@ -65,7 +65,7 @@ pip install -r requirements.txt
 3. Run the pipeline:
 ```bash
 python ML_strategy.py
-
+```
 
 ---
 ## Publications & Presentations
