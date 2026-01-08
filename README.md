@@ -83,6 +83,7 @@ This repository is part of ongoing work presented at:
 iHEALTH – Millennium Institute for Intelligent Healthcare Engineering, 
 Biomedical Imaging Center, and Radiology Department, School of Medicine,
 Pontificia Universidad Católica de Chile, Santiago, Chile
+cristian.montalba@uc.cl
 [ORCID](https://orcid.org/0000-0003-3370-0233)
 
 **Pamela Franco Leiva, Ph.D.**  
@@ -94,12 +95,14 @@ pamela.franco@unab.cl
 **Victor Contreras, MSN, RN.**  
 Division of Anesthesiology, School of Medicine  
 Pontificia Universidad Católica de Chile, Santiago Chile 
+vecontre@uc.cl
 [ORCID](https://orcid.org/0000-0002-6081-0430)
 
 **Karen Azagra, B.Sc.**  
 Division of Anesthesiology, School of Medicine  
-Pontificia Universidad Católica de Chile, Santiago Chile    
-
+Pontificia Universidad Católica de Chile, Santiago Chile   
+karen.azagra@uc.cl 
+[ORCID](https://orcid.org/0000-0003-1380-8925)
 
 **Luis I. Cortinez, MD.** *(Corresponding author)*  
 Division of Anesthesiology, School of Medicine  
